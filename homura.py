@@ -1,5 +1,5 @@
 import turtle as ttle
-from typing import Tuple
+import typing
 
 WriteSteps = 500       
 Speed = 2.5
