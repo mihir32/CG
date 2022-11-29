@@ -283,7 +283,6 @@ def main():
     bezier_curve_Smooth_ver(((318, 348), (296, 344), (262, 329)))
     ttle.end_fill()
 
-
     """
     Layer 6
     """
@@ -486,7 +485,6 @@ def main():
     move_to((315, 307))
     bezier_curve_Smooth_ver(((10, -1), (10, 2)), relative=True)
 
-    # Wait for the user to click to exit
     ttle.exitonclick()
 
 
